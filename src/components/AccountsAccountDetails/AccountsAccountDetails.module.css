@@ -1,0 +1,38 @@
+.LoanSelect{
+    margin-bottom: 16px;
+}
+
+.IntervalCardNotPaid{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border:1px rgb(238, 238, 238) solid;
+    cursor: hand;
+    text-align: center;
+    background-color:rgb(253, 211, 208);
+    color:black;
+}
+.IntervalCardPaid{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border:1px rgb(238, 238, 238) solid;
+    cursor: hand;
+    text-align: center;
+    background-color: rgb(194, 247, 194);
+    color: black;
+}
+
+.AccountButtonGroup{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.PopoverFormElement{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width:100%;
+}
+.PopoverFormBtn{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width:100%;
+}

@@ -1,0 +1,12 @@
+
+.Container {
+    width: 100%;
+    display: flex;
+    align-self: center;
+    margin: auto;
+    text-align: center;
+}
+
+.Label {
+    color:white;
+}

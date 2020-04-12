@@ -1,0 +1,17 @@
+.Container{
+    background-color:rgba(18,18,53,0.4);
+    border-radius:10px;
+    padding:24px;
+}
+.Steps{
+    margin-bottom: 50px;
+}
+.StepTitle{
+    color: white;
+}
+.StepDescription{
+    color:white;
+}
+.Type{
+    text-transform: capitalize;
+}
